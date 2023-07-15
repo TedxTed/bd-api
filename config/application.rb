@@ -18,5 +18,6 @@ module BdApi
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    config.hosts << "a4af-2001-b011-4001-9e1f-cdcc-aa21-ba86-a3c2.ngrok-free.app"
   end
 end
